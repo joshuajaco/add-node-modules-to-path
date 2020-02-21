@@ -1,6 +1,6 @@
 # add-node-modules-to-path
 
-This fork only renamed the function to `add-node-modules-to-path`. For some reason it was not working under the original name ¯\_(ツ)_/¯
+This fork only renamed the function to `add-node-modules-to-path`. For some reason it was not working under the original name ¯\\_(ツ)_/¯
 
 This file provides `add-node-modules-to-path`, which searches
 the current files parent directories for the `node_modules/.bin/` directory
